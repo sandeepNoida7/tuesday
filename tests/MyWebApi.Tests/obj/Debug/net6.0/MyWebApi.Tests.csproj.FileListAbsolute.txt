@@ -144,3 +144,4 @@ C:\MyWebApiApp\tests\MyWebApi.Tests\obj\Debug\net6.0\refint\MyWebApi.Tests.dll
 C:\MyWebApiApp\tests\MyWebApi.Tests\obj\Debug\net6.0\MyWebApi.Tests.pdb
 C:\MyWebApiApp\tests\MyWebApi.Tests\obj\Debug\net6.0\MyWebApi.Tests.genruntimeconfig.cache
 C:\MyWebApiApp\tests\MyWebApi.Tests\obj\Debug\net6.0\ref\MyWebApi.Tests.dll
+C:\MyWebApiApp\tests\MyWebApi.Tests\obj\Debug\net6.0\MyWebApi.Tests.sourcelink.json
